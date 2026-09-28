@@ -16,7 +16,11 @@ public class CiberSeguridad {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola mundo");
-        
+        System.out.println("Esta esta ya editada")
+        int numero1 = 2;
+        int numero2 = 3;
+        int numero3 = 4;
+        int multiplicacion = numero1 + numero2 + numero3;
     }
     
 }
